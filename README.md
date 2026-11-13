@@ -4,7 +4,7 @@ Projeto da atividade de Programação Orientada a Objetos em Java: cadastro de f
 
 ## Tecnologias
 
-Java 17, Maven, JUnit 5.
+Java 27, Maven, JUnit 6.
 
 ## Estrutura
 
